@@ -90,7 +90,7 @@ The phrase "Oh, great" is often used sarcastically in workplace settings. There'
 1. Clone the repo  
 2. Install requirements  
    ```bash
-    pip install -r requirements.txt
+    pip install google-adk
    ```
 3. Run the script  
    ```bash
@@ -109,5 +109,4 @@ The phrase "Oh, great" is often used sarcastically in workplace settings. There'
 ---
 
 ## 👨‍🏫 Built For  
-**Natural Language Processing (NLP) Project**  
-NLP class under Dr. Manorma Chouhan at VIT Bhopal University
+NLP class project under Dr. Manorma Chouhan at VIT Bhopal University
