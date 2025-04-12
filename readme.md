@@ -9,6 +9,8 @@
 This project is an intelligent **sarcasm detection agent** built as part of an NLP course. The agent takes **plain English sentences** as input and classifies whether they are sarcastic, providing a **human-readable explanation** along with a **confidence score**.
 
 It mimics the behavior of a real conversation assistant that explains its reasoning using NLP features like **tone analysis**, **word choice**, **emotional contrast**, and **contextual cues**.
+![image](https://github.com/user-attachments/assets/dd76b9ec-04f2-4ef7-a3c3-6b010ae058f1)
+
 
 ---
 
