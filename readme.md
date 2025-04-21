@@ -1,10 +1,10 @@
 
-# 🤖 Sarcasm Detection Agent  
+# Sarcasm Detection Agent  
 *An NLP-powered agent that detects sarcasm in plain text with contextual explanation.*
 
 ---
 
-## 📚 Overview
+## Overview
 
 This project is an intelligent **sarcasm detection agent** built as part of an NLP course. The agent takes **plain English sentences** as input and classifies whether they are sarcastic, providing a **human-readable explanation** along with a **confidence score**.
 
@@ -14,38 +14,38 @@ It mimics the behavior of a real conversation assistant that explains its reason
 
 ---
 
-## 🎯 Features
+## Features
 
-- 🔡 Accepts plain text input (e.g., “Oh great, another meeting that could’ve been an email”).
-- 🧠 Analyzes tone, exaggeration, contrast, and common sarcasm patterns.
-- 📖 Provides human-readable breakdown with:
+-  Accepts plain text input (e.g., “Oh great, another meeting that could’ve been an email”).
+-  Analyzes tone, exaggeration, contrast, and common sarcasm patterns.
+-  Provides human-readable breakdown with:
   - Tone and word analysis  
   - Emotional/semantic contrast  
   - Contextual interpretation  
-- ✅ Returns a classification (Sarcasm: Yes/No) with a confidence score.
-- 🤝 Can ask users for more information when context is unclear.
+-  Returns a classification (Sarcasm: Yes/No) with a confidence score.
+-  Can ask users for more information when context is unclear.
 
 ---
 
-## 📂 Example
+## Example
 
 **Input:**  
 `"Oh, great. Another meeting that could've been an email."`
 
 **Output:**  
 ```
-🔍 Sarcasm Detected: ✅  
-🎯 Confidence: 95%
+Sarcasm Detected: ✅  
+Confidence: 95%
 
-💬 Explanation:
+ Explanation:
 The phrase "Oh, great" is often used sarcastically in workplace settings. There's a contrast between the positive word "great" and the annoyance of attending a useless meeting. This emotional and linguistic contradiction suggests sarcasm.
 
-💡 Key Phrases: "Oh, great", "could’ve been an email"
+ Key Phrases: "Oh, great", "could’ve been an email"
 ```
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 1. **Input Handling**  
    Accepts plain text directly from user. If needed, the agent prompts for more context.
@@ -69,7 +69,7 @@ The phrase "Oh, great" is often used sarcastically in workplace settings. There'
 
 ---
 
-## 💡 Use Cases
+##  Use Cases
 
 - Classroom NLP experiments  
 - Chatbot systems to detect user sentiment  
@@ -78,7 +78,7 @@ The phrase "Oh, great" is often used sarcastically in workplace settings. There'
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python (core logic)  
 - Google ADK
@@ -87,7 +87,7 @@ The phrase "Oh, great" is often used sarcastically in workplace settings. There'
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo  
 2. Install requirements  
@@ -101,7 +101,7 @@ The phrase "Oh, great" is often used sarcastically in workplace settings. There'
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Incorporate transformer models for richer semantic detection  
 - Add speaker profile memory for long-term tone tracking  
@@ -110,5 +110,5 @@ The phrase "Oh, great" is often used sarcastically in workplace settings. There'
 
 ---
 
-## 👨‍🏫 Built For  
+##  Built For  
 NLP class project under Dr. Manorma Chouhan at VIT Bhopal University
